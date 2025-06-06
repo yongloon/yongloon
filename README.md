@@ -1,11 +1,14 @@
 # 👋 Hi, I'm Yong Loon
 
-I'm a developer passionate about Web3, AI, mobile development, and building tools that make developers' lives easier.
+I'm a developer passionate about Web3, AI, and mobile development. I love building tools that make developers' lives easier.
 
-- 🔧 Currently working on:
-  - [CourseForge Web](https://github.com/blockode-co/courseforge-web) – AI-powered online course platform
-  - [InsightTrader Frontend](https://github.com/blockode-co/insighttrader_frontend) – Trading insights dashboard
-- 💡 Interests: Solidity, AI tools, mobile apps
-- 🧪 Notable projects: [webui_solidity](https://github.com/yongloon/webui_solidity), [RetrofitUploadFileExample](https://github.com/yongloon/RetrofitUploadFileExample)
+### 🚧 Current Projects
+- [CourseForge Web](https://github.com/blockode-co/courseforge-web) – AI-powered online course platform  
+- [InsightTrader Frontend](https://github.com/blockode-co/insighttrader_frontend) – Trading insights and analytics dashboard  
 
-📫 Reach me on [Twitter](https://twitter.com/yong_loon) or visit [blockode.co](https://blockode.co)
+### 💡 Interests
+Solidity · AI tools · Mobile apps · Developer productivity
+
+### 📫 Connect with Me
+- [Twitter](https://twitter.com/yong_loon)  
+- [blockode.co](https://blockode.co)
